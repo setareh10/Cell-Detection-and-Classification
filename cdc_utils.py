@@ -2,7 +2,7 @@
 """
 Created on Sat Sep  9 12:53:07 2023
 
-@author: setar
+@author: Setareh
 """
 import numpy as np
 from skimage.exposure import rescale_intensity
