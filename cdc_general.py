@@ -2,7 +2,7 @@
 """
 Created on Mon Sep  4 10:41:04 2023
 
-@author: setar
+@author: Setareh
 """
 import pickle
 import numpy as np
